@@ -1,7 +1,10 @@
 # Countdown Timer using React
 
-This is a Toaster Component built with React!
-Checkout Demo Here! - ReactToasterDemo
+This is a Countdown Timer built with React!
+
+Checkout Demo Here! - [Countdown Timer Demo](https://sumanhansada.github.io/countdown-timer/)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
