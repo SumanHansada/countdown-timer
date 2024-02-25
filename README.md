@@ -1,4 +1,4 @@
-# Countdown Timer using React
+# Countdown Timer using React!
 
 This is a Countdown Timer built with React!
 
